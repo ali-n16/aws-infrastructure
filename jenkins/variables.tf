@@ -13,5 +13,5 @@ variable "subnet_id" {
 variable "key_name" {
   description = "Name of the AWS key pair"
   type        = string
-  default     = "aws"
+  default     = "aws-09-25"
 }
